@@ -8,7 +8,7 @@ En otra vida hice algunos cursos de Java y programación web, los cuales me moti
 
 Mis **conocimientos/skills** son los siguientes:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql,selenium)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql,selenium,javascript,angular)
 
 _It ain't much, but it's honest work._
 
